@@ -1,0 +1,21 @@
+#bulb {
+    width: 100px;
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+  }
+
+
+  #toggleButton {
+    padding: 10px 20px; /* Add padding for a nice button size */
+    background-color: #3498db; /* Set the button background color */
+    color: #fff; /* Set the text color to white */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Add rounded corners */
+    cursor: pointer; /* Change the cursor to a pointer on hover */
+  }
+
+  /* Style the button on hover */
+  #toggleButton:hover {
+    background-color: #2980b9; /* Darker background color on hover */
+  }
